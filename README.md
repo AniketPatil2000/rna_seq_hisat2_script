@@ -1,0 +1,1 @@
+# Rna_seq_hisat2_script.sh
